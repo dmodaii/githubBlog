@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: moexcept的博客
+title: moexcept
 subtitle: 唯有苦，方有甜。唯有累，方有闲
 #description: 这是我的个人博客，我会把自己的所学都总结到这里，小伙伴们一起交流，感觉好的话请收藏一下我的博客吧！
 #author: codertian
-language: zh-CN
+language: en
 timezone:
 
 # URL
@@ -28,7 +28,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
