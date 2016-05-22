@@ -2,13 +2,13 @@
 
 # site setting
 rss: /atom.xml
-favicon: https://avatars3.githubusercontent.com/u/16015549?v=3&s=460
+favicon: https://avatars0.githubusercontent.com/u/16190100?v=3&s=460
 
 # style setting
 monochrome: false
 
 # view setting
-avatar: https://avatars3.githubusercontent.com/u/16015549?v=3&s=460
+avatar: https://avatars0.githubusercontent.com/u/16190100?v=3&s=460
 avatarLink: /about
 maxContentWidth: 1000px # set the main content column's max-width property. keep it blank to unlimited the width
 copyright: # the copyright text in the footer, could be richtext
