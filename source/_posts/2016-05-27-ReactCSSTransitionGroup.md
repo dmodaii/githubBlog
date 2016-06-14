@@ -4,6 +4,8 @@ date: 2016-05-27 19:28:43
 tags:
   - react
 categories: 前端开发
+photos:
+-
 ---
 
 React provides a ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
