@@ -101,6 +101,6 @@ sitemap:
 
 deploy:
   type: git
-  repository: ssh://github.com/dmodaii/dmodaii.github.io.git
+  repository: git@github.com:dmodaii/dmodaii.github.io.git
   branch: master
    #gitcafe: https://git.coding.netmoexceptimoexcepti.git,coding-pages
