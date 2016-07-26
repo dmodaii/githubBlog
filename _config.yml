@@ -12,7 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://codertian.com
+#url: http://moexcept.com 并在  source/CNAME 中添加对应域名（moexcept.com）无需http
+url: http://dmodaii.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
